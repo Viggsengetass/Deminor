@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "12tteHnzDWEYk4x8KG0i3G3WLkUdbVJ1uaV61QYAQDY/bifH70QGvGeXhNPjBcuO7REShar3i+vLH7zFOBGy4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\Videos\\Deminor\\Cours\\Cours.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
